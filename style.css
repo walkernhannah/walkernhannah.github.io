@@ -1,3 +1,4 @@
+@@ -1,77 +0,0 @@
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
     background-color: black;
@@ -6,7 +7,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/heroImage.jpeg');
+    /*background: url('images/heroImage.jpeg'); */
     background-size:cover;
     position:relative;
 }
